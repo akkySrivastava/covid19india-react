@@ -8,7 +8,7 @@ const state = {
   confirmed: '86',
   recovered: '7',
   deaths: '4',
-  deltaconfirmed: '10',
+  deltaconfirmed: '1',
   deltadeaths: '3',
   deltarecovered: '5',
 };
